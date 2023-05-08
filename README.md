@@ -38,8 +38,6 @@ go and access them from any device as long as you remember your username and pas
 
 ## 2. Team
 
-We are **Team 210**. 
-
 Members:
 - Adeit Dalal 
 - Javin Mehta
