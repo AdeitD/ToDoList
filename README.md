@@ -1,9 +1,6 @@
 # ToDoList Landing Page
 ToDoList - the To-Do list application built around speed.
 
-## Extra - Application Demo
-[View Demo Here](https://youtu.be/fTuBeQfkDVg)
-
 ## Overview
 
 1. Description
