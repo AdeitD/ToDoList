@@ -1,5 +1,5 @@
-# ToDoList Landing Page
-ToDoList - the To-Do list application built around speed.
+# ViDi Landing Page
+ViDi - the To-Do list application built around speed.
 
 ## Overview
 
@@ -30,10 +30,10 @@ ToDoList - the To-Do list application built around speed.
 7. License
 
 ## 1. Description
-The main idea of ToDoList, our To-Do list application, is to optimize the time a user will have to spend inputting tasks so
+The main idea of ViDi, our To-Do list application, is to optimize the time a user will have to spend inputting tasks so
 they can spend more of their time doing the task themselves. Developed with inspiration from Vim/Vi, there are 
 shortcuts for everything you could possibly need built into the application. There is no need, and no ability, to use
-your mouse/cursor in our application. ToDoList also supports online and offline synching to allow you to write your tasks on the 
+your mouse/cursor in our application. ViDi also supports online and offline synching to allow you to write your tasks on the 
 go and access them from any device as long as you remember your username and password.
 
 ## 2. Team
